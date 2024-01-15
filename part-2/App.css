@@ -1,13 +1,13 @@
 .tweet {
-  border: 1px solid blue;
-  border-radius: 8px;
-  margin: 20px;
-  padding: 16px;
+  border: 1px solid #0099CC;
+  border-radius: 5px;
+  margin: 20px 20%;
+  padding: 20px;
 }
 
 .username,
 .date {
-  color: aquamarine;
+  color: #999;
   display: inline-block;
   margin: 0 10px;
 }
